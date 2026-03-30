@@ -169,6 +169,12 @@ yfinance
 ## 👨‍💻 Author
 
 **Kanha Patidar**
+B.Tech (CSIT) Student | Aspiring AI/ML Engineer
+
+Passionate about Machine Learning and Data Science, with hands-on experience in building real-world projects like time series forecasting using ARIMA and SARIMA.
+
+📫 LinkedIn: www.linkedin.com/in/kanha-patidar-837421290
+💻 GitHub: https://github.com/kanha165
 
 ---
 
