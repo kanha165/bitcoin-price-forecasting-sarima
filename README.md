@@ -16,7 +16,7 @@ The goal is to analyze historical Bitcoin data and predict future prices while u
 * Compare model performance
 * Generate future forecasts
 
---
+---
 
 ## 📊 Dataset
 
